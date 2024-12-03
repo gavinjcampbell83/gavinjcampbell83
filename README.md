@@ -5,6 +5,7 @@
 🛠 Full-stack developer with expertise in JavaScript, Python, React, Express, SQLAlchemy, and Sequelize.
 🎓 Recent graduate from an intensive software development bootcamp, equipped with hands-on experience in creating dynamic, user-focused applications.
 💡 Focused on crafting scalable, impactful projects while continuously improving my skills.
+
 🌱 What I’m Working On:
 
 🌟 Enhancing my portfolio with challenging full-stack projects.
